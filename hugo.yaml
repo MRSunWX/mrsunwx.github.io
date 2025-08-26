@@ -113,7 +113,7 @@ params:
       disableHLJS: true
 
   giscus:
-    repo: "MRSunWX/sunweixiao.github.io"
+    repo: "MRSunWX/mrsunwx.github.io"
     repoId: "R_kgDOPjtVuw"
     category: "Announcements"
     categoryId: "DIC_kwDOPjtVu84CumaX"
