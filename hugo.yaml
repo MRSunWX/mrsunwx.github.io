@@ -91,7 +91,7 @@ params:
       title: 关注我的抖音帐号
       url: "https://www.douyin.com/user/MS4wLjABAAAAv_mmj3CBWD1iMvSPyctLrjpv9XY-rinEIwgOowAfa0g"
     - name: email
-      title: send an email to me 
+      title: 我的邮箱:760602910@qq.com
       url: "mailto:760602910@qq.com"
     
 
