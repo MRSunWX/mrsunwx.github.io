@@ -90,6 +90,9 @@ params:
     - name: TiktoK
       title: 关注我的抖音帐号
       url: "https://www.douyin.com/user/MS4wLjABAAAAv_mmj3CBWD1iMvSPyctLrjpv9XY-rinEIwgOowAfa0g"
+    - name: email
+      title: send an email to me 
+      url: "mailto:760602910@qq.com"
     
 
   # 搜索
