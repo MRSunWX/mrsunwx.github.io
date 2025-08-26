@@ -55,19 +55,20 @@ pagination:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "我的个人主页，分享学习与生活"
   author: sunweixiao
   defaultTheme: dark # 默认是暗色背景
-  ShowShareButtons: false # 关闭分享的按钮
+  ShowShareButtons: true # 关闭分享的按钮
   ShowReadingTime: true # 展示预估的阅读时长
   displayFullLangName: true # 展示全名
   ShowPostNavLinks: true # 展示文章导航链接，就是下一页上一页的那个
-  ShowBreadCrumbs: false # 是否展示标题上方的面包屑
+  ShowBreadCrumbs: true # 是否展示标题上方的面包屑
   ShowCodeCopyButtons: true # 是否展示复制代码的按钮
   ShowRssButtonInSectionTermList: true # RSS 相关
   ShowAllPagesInArchive: true # 在归档页面展示所有的页面
   ShowPageNums: true # 展示页面的页数
   ShowToc: true # 展示文章详情页的目录
+  Tocopen: true
   comments: true # 评论
   images: ["https://i.postimg.cc/7hwBy7VS/calcr.png"] # 缺省的图片，比如，博客的封面
   DateFormat: "2006-01-02" # 这个时间是作者自己写的，只能这样写
