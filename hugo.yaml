@@ -147,3 +147,7 @@ markup:
     # 这里设置 style 没用，得自己加 css
     # style: "github-dark"
     # style: monokai
+
+caches:
+  images:
+    dir: :cacheDir/images
