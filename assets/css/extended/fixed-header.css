@@ -1,0 +1,16 @@
+/* 固定 PaperMod 顶部导航栏 */
+header.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  background: var(--theme); /* 保持和主题一致 */
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08); /* 加轻微阴影 */
+}
+
+/* 避免正文被导航栏遮住，给 body 加上间距 */
+body {
+  padding-top: 4rem; /* 根据导航栏实际高度调整 */
+}
