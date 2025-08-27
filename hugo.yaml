@@ -88,12 +88,18 @@ params:
     - name: Bilibili
       title: 关注我的 B 站帐号
       url: "https://space.bilibili.com/628037243"
-    - name: TiktoK
+    - name: TikTok
       title: 关注我的抖音帐号
       url: "https://www.douyin.com/user/MS4wLjABAAAAv_mmj3CBWD1iMvSPyctLrjpv9XY-rinEIwgOowAfa0g"
     - name: email
       title: 我的邮箱:760602910@qq.com
       url: "mailto:760602910@qq.com"
+    - name: qq
+      title: 我的 QQ:760602910
+      url: "/images/qq_qrcode.png"
+    - name: wechat
+      title: 我的微信:这么厉害先生
+      url: "/images/wechat_qrcode.png"
     
 
   # 搜索
