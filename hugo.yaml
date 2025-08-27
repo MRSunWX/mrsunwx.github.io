@@ -79,7 +79,7 @@ params:
     Title: "Hi,there.👋I'm Sun Weixiao."
     # 首页的 profile 内容
     Content: >
-      <br>
+      <img src="/images/hello.png" alt="Profile" style="width:750px;height:auto;border-radius:0%;">
       &emsp;Welcome to my Blog! I enjoy cycling & mountain biking, photography, hiking & backpacking, and generally spending time in nature. Aside from software engineering, nerdy hobbies include electronics, 3D printing, and geeking about weather, coffee, and beer.
       <br>
       &emsp;This is my website. Please have a look around.
@@ -111,7 +111,7 @@ params:
       location: 0
       distance: 1000
       threshold: 0.4
-      minMatchCharLength: 2
+      minMatchCharLength: 1
       # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
       keys: ["title", "permalink", "summary", "content"]
       includeMatches: true
